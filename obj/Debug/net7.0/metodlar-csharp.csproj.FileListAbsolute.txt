@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\yazılım\metodlar-csharp\bin\Debug\net7.0\metodlar-csharp.exe
+C:\Users\user\Desktop\yazılım\metodlar-csharp\bin\Debug\net7.0\metodlar-csharp.deps.json
+C:\Users\user\Desktop\yazılım\metodlar-csharp\bin\Debug\net7.0\metodlar-csharp.runtimeconfig.json
+C:\Users\user\Desktop\yazılım\metodlar-csharp\bin\Debug\net7.0\metodlar-csharp.dll
+C:\Users\user\Desktop\yazılım\metodlar-csharp\bin\Debug\net7.0\metodlar-csharp.pdb
+C:\Users\user\Desktop\yazılım\metodlar-csharp\obj\Debug\net7.0\metodlar-csharp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\yazılım\metodlar-csharp\obj\Debug\net7.0\metodlar-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\yazılım\metodlar-csharp\obj\Debug\net7.0\metodlar-csharp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\yazılım\metodlar-csharp\obj\Debug\net7.0\metodlar-csharp.AssemblyInfo.cs
+C:\Users\user\Desktop\yazılım\metodlar-csharp\obj\Debug\net7.0\metodlar-csharp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\yazılım\metodlar-csharp\obj\Debug\net7.0\metodlar-csharp.dll
+C:\Users\user\Desktop\yazılım\metodlar-csharp\obj\Debug\net7.0\refint\metodlar-csharp.dll
+C:\Users\user\Desktop\yazılım\metodlar-csharp\obj\Debug\net7.0\metodlar-csharp.pdb
+C:\Users\user\Desktop\yazılım\metodlar-csharp\obj\Debug\net7.0\metodlar-csharp.genruntimeconfig.cache
+C:\Users\user\Desktop\yazılım\metodlar-csharp\obj\Debug\net7.0\ref\metodlar-csharp.dll
